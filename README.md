@@ -33,11 +33,15 @@ The code is provided to facilitate reproducibility of the study results. Analyse
 ## Required packageds may include:
 readr 
 
+readxl
+
 dplyr 
 
 openxlsx 
 
 parallel 
+
+doParallel
 
 vegan 
 
@@ -49,12 +53,24 @@ dietaryindex
 
 foreach 
 
-purrr 
-
 tibble 
+
+ggplot2
+
+grid
+
+janitor
+
+Maaslin2
+
+FNN
 
 cluster 
 
 mclust 
 
+fpc 
+
 ANCOMBC 
+
+phyloseq
