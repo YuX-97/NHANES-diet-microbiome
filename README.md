@@ -31,46 +31,4 @@ FEPD 37 food types information aligned with NHANES participants are publicly ava
 The code is provided to facilitate reproducibility of the study results. Analyses was done on R ver 4.4.1
 
 ## Required packageds may include:
-readr 
-
-readxl
-
-dplyr 
-
-openxlsx 
-
-parallel 
-
-doParallel
-
-vegan 
-
-lavann 
-
-stringr 
-
-dietaryindex 
-
-foreach 
-
-tibble 
-
-ggplot2
-
-grid
-
-janitor
-
-Maaslin2
-
-FNN
-
-cluster 
-
-mclust 
-
-fpc 
-
-ANCOMBC 
-
-phyloseq
+readr, readxl, dplyr, openxlsx, parallel, doParallel, vegan, lavann, stringr, dietaryindex, foreach, tibble, ggplot2, grid, janitor, Maaslin2, FNN, cluster, mclust, fpc, ANCOMBC, phyloseq
