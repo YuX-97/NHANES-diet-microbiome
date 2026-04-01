@@ -25,6 +25,8 @@ NHANES-diet-microbiome/
 ## Data source
 NHANES data are publicly available from the CDC NHANES website (https://wwwn.cdc.gov/nchs/nhanes/).
 
+FEPD 37 food types information aligned with NHANES participants are publicly available at https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/fped-databases/.
+
 ## Notes
 The code is provided to facilitate reproducibility of the study results. Analyses was done on R ver 4.4.1
 
